@@ -60,11 +60,14 @@ Guiding Question:
 - What technology used and how it is used
 
 ### Key Components
-<!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Single Page Website
+- Hover Effect
+- Before Effect
+- Active Effect
+- Resume-like information
+- Responsive Website
+- Unique Layouts
 
 ### Link for my Websites
 -Finals: https://github.com/Marielle05/WD-Finals
@@ -76,7 +79,6 @@ Guiding Question:
 
 
 ### Technology
-<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -117,14 +119,10 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
+
 | Title | Purpose | Link |
-|-|-|-|
 | Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript | copied the structure of code | https://youtu.be/Tkp3FDgOueM?si=9jrYnEskf_-T7fya |
 |Canva|used for editing pictures|https://www.canva.com/|
-|-|-|-|
-|-|-|-|
-|-|-|-|
 |-|-|-|
 ## Wakatime
 
