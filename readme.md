@@ -70,12 +70,12 @@ Guiding Question:
 - Unique Layouts
 
 ### Link for my Websites
--Finals: https://github.com/Marielle05/WD-Finals
--Hands on 1 (Midterms): https://marielle05.github.io/WD-MIDTERMS/
--Hands on 2 (Hero and Cards): https://marielle05.github.io/WD-Hands-on-2/
--Seatwork 2 (Resume): https://marielle05.github.io/WD-Torres/
--Seatwork 3 (Header and Footer): https://marielle05.github.io/WD-S3/
--Seatwork 4 (Features Section): https://marielle05.github.io/WD-Seatwork-4/
+- Finals: https://github.com/Marielle05/WD-Finals
+- Hands on 1 (Midterms): https://marielle05.github.io/WD-MIDTERMS/
+- Hands on 2 (Hero and Cards): https://marielle05.github.io/WD-Hands-on-2/
+- Seatwork 2 (Resume): https://marielle05.github.io/WD-Torres/
+- Seatwork 3 (Header and Footer): https://marielle05.github.io/WD-S3/
+- Seatwork 4 (Features Section): https://marielle05.github.io/WD-Seatwork-4/
 
 
 ### Technology
@@ -118,11 +118,12 @@ WD-ProjectName
 ```
 
 ## Resources
-
-
-| Title | Purpose | Link |
 | Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript | copied the structure of code | https://youtu.be/Tkp3FDgOueM?si=9jrYnEskf_-T7fya |
 |Canva|used for editing pictures|https://www.canva.com/|
-|-|-|-|
+
 ## Wakatime
+|I transferred some of the codes here|https://wakatime.com/projects/WD-final-1-?start=2024-07-09&end=2024-07-15|
+
+| most of my coding were spent here|https://wakatime.com/projects/WD-Finals?start=2024-07-09&end=2024-07-15|
+
 
