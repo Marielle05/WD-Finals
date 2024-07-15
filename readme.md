@@ -4,23 +4,18 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/Marielle05/">
+    <img src="./assets/img/logo1.png" alt="" width="" height="">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD - Finals</h3>
 </div>
-<!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This project involves creating a personal website with five unique pages to showcase your design and web development skills. Serving as a professional portfolio, it will highlight your abilities and past projects in an organized and visually appealing way, demonstrating a wide range of your competencies.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Marielle05/WD-finals(1))
 
 ---
 
@@ -72,6 +67,15 @@ Guiding Question:
 - Parallax transition
 - Transactional
 
+### Link for my Websites
+-Finals: https://github.com/Marielle05/WD-Finals
+-Hands on 1 (Midterms): https://marielle05.github.io/WD-MIDTERMS/
+-Hands on 2 (Hero and Cards): https://marielle05.github.io/WD-Hands-on-2/
+-Seatwork 2 (Resume): https://marielle05.github.io/WD-Torres/
+-Seatwork 3 (Header and Footer): https://marielle05.github.io/WD-S3/
+-Seatwork 4 (Features Section): https://marielle05.github.io/WD-Seatwork-4/
+
+
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -117,4 +121,11 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript | copied the structure of code | https://youtu.be/Tkp3FDgOueM?si=9jrYnEskf_-T7fya |
+|Canva|used for editing pictures|https://www.canva.com/|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+## Wakatime
+
