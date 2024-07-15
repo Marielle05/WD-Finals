@@ -115,7 +115,8 @@ WD-ProjectName
 ```
 
 ## Resources
-
+| Title | Purpose | Link |
+|-|-|-|
 | YouTube | copied the structure of code | [Link] https://youtu.be/Tkp3FDgOueM?si=9jrYnEskf_-T7fya |
 | Canva | used for editing pictures | [Link] https://www.canva.com/ |
 
