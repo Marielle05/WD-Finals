@@ -122,9 +122,9 @@ WD-ProjectName
 
 ## Wakatime
 - I transferred some of the codes here
- [Link](https://wakatime.com/projects/WD-final-1-?start=2024-07-09&end=2024-07-15) |
+ [Link](https://wakatime.com/projects/WD-final-1-?start=2024-07-09&end=2024-07-15)
 
 - most of my coding were spent here
- [Link](https://wakatime.com/projects/WD-Finals?start=2024-07-09&end=2024-07-15) |
+ [Link](https://wakatime.com/projects/WD-Finals?start=2024-07-09&end=2024-07-15)
 
 
