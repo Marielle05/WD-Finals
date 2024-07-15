@@ -15,14 +15,13 @@
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=Marielle05/WD-finals(1))
+![](https://visit-counter.vercel.app/counter.png?page=Marielle05/WD-Finals)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
