@@ -117,14 +117,14 @@ WD-ProjectName
 ## Resources
 | Title | Purpose | Link |
 |-|-|-|
-| YouTube | copied the structure of code | [Link] https://youtu.be/Tkp3FDgOueM?si=9jrYnEskf_-T7fya |
-| Canva | used for editing pictures | [Link] https://www.canva.com/ |
+| YouTube | copied the structure of code | [Link] (https://youtu.be/Tkp3FDgOueM?si=9jrYnEskf_-T7fya) |
+| Canva | used for editing pictures | [Link] (https://www.canva.com/) |
 
 ## Wakatime
 - I transferred some of the codes here
- [Link] https://wakatime.com/projects/WD-final-1-?start=2024-07-09&end=2024-07-15 |
+ [Link] (https://wakatime.com/projects/WD-final-1-?start=2024-07-09&end=2024-07-15) |
 
 - most of my coding were spent here
- [Link] https://wakatime.com/projects/WD-Finals?start=2024-07-09&end=2024-07-15 |
+ [Link] (https://wakatime.com/projects/WD-Finals?start=2024-07-09&end=2024-07-15) |
 
 
