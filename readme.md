@@ -48,16 +48,13 @@
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project andthe purpose?
+ -The project involves creating a personal website aimed at showcasing both design prowess and web development skills. This entails developing at least five distinct pages, each with unique layouts that highlight various features and functionalities. The primary objective is to craft visually appealing designs while incorporating interactive and responsive elements using modern web development tools and techniques. Ultimately, the website will serve as a professional portfolio, showcasing past projects, skills, and experiences to prospective employers or clients, thereby establishing a robust online presence that reflects the user's capabilities in both design and development.
+
 
 ### Key Components
 <!-- The following are just sample -->
@@ -118,12 +115,12 @@ WD-ProjectName
 ```
 
 ## Resources
-| Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript | copied the structure of code | https://youtu.be/Tkp3FDgOueM?si=9jrYnEskf_-T7fya |
+| YouTube | copied the structure of code | https://youtu.be/Tkp3FDgOueM?si=9jrYnEskf_-T7fya |
 |Canva|used for editing pictures|https://www.canva.com/|
 
 ## Wakatime
-|I transferred some of the codes here|https://wakatime.com/projects/WD-final-1-?start=2024-07-09&end=2024-07-15|
+|I transferred some of the codes here| https://wakatime.com/projects/WD-final-1-?start=2024-07-09&end=2024-07-15 |
 
-| most of my coding were spent here|https://wakatime.com/projects/WD-Finals?start=2024-07-09&end=2024-07-15|
+| most of my coding were spent here | https://wakatime.com/projects/WD-Finals?start=2024-07-09&end=2024-07-15 |
 
 
