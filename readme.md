@@ -114,17 +114,18 @@ WD-ProjectName
 └─ readme.md
 ```
 
+
+### Coding Activity
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Marielle05/aa81d90e-34ee-4f46-bf0d-abfc66fb16f3.png" height=300 /></a>
+
+
+### Languages
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Marielle05/8892aa61-fd16-4124-83ca-5acd9ce6e2fe.png" height=300/></a>
+
+
 ## Resources
 | Title | Purpose | Link |
 |-|-|-|
 | YouTube | copied the structure of code | [Link](https://youtu.be/Tkp3FDgOueM?si=9jrYnEskf_-T7fya) |
 | Canva | used for editing pictures | [Link](https://www.canva.com/) |
-
-## Wakatime
-- I transferred some of the codes here
- [Link](https://wakatime.com/projects/WD-final-1-?start=2024-07-09&end=2024-07-15)
-
-- most of my coding were spent here
- [Link](https://wakatime.com/projects/WD-Finals?start=2024-07-09&end=2024-07-15)
-
-
