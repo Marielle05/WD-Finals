@@ -58,7 +58,7 @@ Guiding Question:
 
 ### Key Components
 <!-- The following are just sample -->
-- Single Page Website
+- Multipage Website
 - Hover Effect
 - Before Effect
 - Active Effect
